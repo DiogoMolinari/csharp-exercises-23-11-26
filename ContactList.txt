@@ -1,0 +1,4 @@
+diogo,123,av paulista
+isabella,456,av carioca
+felipe,789,av mineira
+rafael,12345,naosei
